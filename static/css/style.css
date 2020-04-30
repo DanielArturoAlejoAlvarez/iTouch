@@ -1,0 +1,27 @@
+body {
+    font-family: 'PT Mono'!important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    letter-spacing: 2px!important;
+}
+
+.card-title {
+    text-transform: initial!important;
+}
+
+.navbar .nav-item,
+.dropdown-menu {
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+    text-transform: initial!important;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: #777;
+}
